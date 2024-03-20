@@ -39,7 +39,6 @@ Before running this project, make sure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.comfredrick273/file-xplorer.git
    cd file-explorer
    ```
 
